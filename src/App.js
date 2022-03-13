@@ -7,12 +7,6 @@ import TMDB from './TMDB';
 
 class App extends Component {
 
-  // state = {
-  //   films: [],
-  //   deets: []
-  // }
-
-
   render() {
     return (
       <>
